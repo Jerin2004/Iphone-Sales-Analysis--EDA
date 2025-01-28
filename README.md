@@ -1,6 +1,6 @@
 # iPhone Sales Analysis
 
-![Apple Logo](apple.jpeg)
+![Apple Logo](apple_logo.jpeg)
 
 ## 📊 Project Overview  
 This project dives into iPhone sales data to uncover trends, patterns, and insights. Leveraging Python and Jupyter Notebook, it provides a detailed analysis and visualizations that help understand market behavior.
